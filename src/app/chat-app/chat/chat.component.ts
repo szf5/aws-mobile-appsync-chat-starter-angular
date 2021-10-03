@@ -3,7 +3,9 @@ import { SwUpdate } from '@angular/service-worker';
 import {PageScrollConfig} from 'ngx-page-scroll';
 
 import AWSAppSyncClient from 'aws-appsync';
-import { AUTH_TYPE } from 'aws-appsync/lib/link/auth-link';
+
+// import { AUTH_TYPE } from 'aws-appsync/lib/link/auth-link';
+// import { AUTH_TYPE } from 'aws-appsync';
 
 import User from '../types/user';
 import Conversation from '../types/conversation';
