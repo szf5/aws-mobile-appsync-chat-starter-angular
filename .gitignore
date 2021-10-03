@@ -47,5 +47,5 @@ Thumbs.db
 /src/aws-exports.js
 /src/graphql
 
-package-lock.json
+#package-lock.json
 .graphqlconfig.yml
